@@ -1,0 +1,8 @@
+.todo-item {
+  padding: 0.3em 1em 0.3em 1em;
+  width: inherit;
+  background-color: #303138;
+  display: flex;
+  justify-content: space-between;
+  font-size: 19px;
+}
