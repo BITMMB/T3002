@@ -7,9 +7,9 @@ import "./app.css";
 
 const App = () => {
   const data = [
-    { label: "fuck off", important: 0, id: 1 },
-    { label: "ass hole", important: 1, id: 2 },
-    { label: "big dick", important: 0, id: 3 },
+    { label: "First", important: 0, id: 1 },
+    { label: "Second", important: 1, id: 2 },
+    { label: "Third", important: 0, id: 3 },
   ];
 
   return (
